@@ -68,7 +68,10 @@ O projeto adota uma estética escura com fundo `#1b1b2e` e container centralizad
 ## Como Executar
 
 1. Clone o repositório:
-```bash
-git clone https://github.com/FaculdadeJV/Tabela_periodica.git
+   ```bash
+   git clone https://github.com/FaculdadeJV/Tabela_Periodica.git
 
-
+## Autor
+- Jonathan Arsego Lêla
+- RA: 22408629
+- Engenharia da Computação - CEUB
