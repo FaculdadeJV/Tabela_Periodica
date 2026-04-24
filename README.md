@@ -17,7 +17,7 @@ Uma tabela periódica interativa e totalmente funcional, desenvolvida com **Boot
 ![Detalhe 18 colunas](assets/tabela_numeros.png)
 
 ### Linha dos lantanídeos e actinídeos
-![Lantanídeos_act](assets/lac_ac.png)
+![Lantanídeos_act](assets/lat_ac.png)
 
 ## Sobre o Projeto
 
